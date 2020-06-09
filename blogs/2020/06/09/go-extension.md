@@ -15,12 +15,9 @@ From the beginning, we have worked with developer communities to build Visual St
 
 VS Code is also the most popular editor for Go developers (used by 41% of developers according to the [Go developer survey](https://blog.golang.org/survey2019-results)). We are proud of the work that we have done on the [Go extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=golang.Go), which is the result of an extensive development effort together with the Go community by virtue of both code contributions and integration with over a dozen independently maintained tools.
 
-Amongst our community of contributors, we'd like to extend special thanks to Ramya Rao ([@ramyanexus](https://twitter.com/ramyanexus/)), the lead maintainer of the extension and contributor to the community for many years, as well as Luke Hoban ([@lukehoban](https://twitter.com/lukehoban/)), and Eric Gamma ([@erichgamma](https://twitter.com/erichgamma/)), for their contributions since September 2015!
-
 ![Go extension](go-extension.png)
 
-Last year, we worked with the Go team to enable support for [gopls](https://golang.org/s/gopls), a new language server for the Go language, and improving support for the [Delve](https://github.com/go-delve/delve/issues/1515) debugger. Using the new language server improves the [experience](https://www.youtube.com/watch?v=EFJfdWzBHwE) of Go developers who use VS Code. It offers an integrated solution for various components of the core developer experience (code completion, jump to definition, hover tooltips, etc.) through a tool that is maintained by the Go project itself and is kept up to date with support for new language features such as Go modules. We would also like to thank Rebecca Stambler ([@stamblerre](https://twitter.com/lukehoban/)) and the Go team for their collaboration.
-
+Last year, we worked with the Go team to enable support for [gopls](https://golang.org/s/gopls), a new language server for the Go language, and improving support for the [Delve](https://github.com/go-delve/delve/issues/1515) debugger. Using the new language server improves the [experience](https://www.youtube.com/watch?v=EFJfdWzBHwE) of Go developers who use VS Code. It offers an integrated solution for various components of the core developer experience (code completion, jump to definition, hover tooltips, etc.) through a tool that is maintained by the Go project itself and is kept up to date with support for new language features such as Go modules. 
 
 ## The Go extension for VS Code joins the Go project
 
@@ -33,6 +30,9 @@ Being part of the Go project will also ensure that the community is engaged on e
 In practical terms, as the extension graduates to being part of the Go project, we will be changing the publisher of the extension from "Microsoft" to "Golang" in the VS Code Marketplace.
 
 Additionally, the source code repository for the extension is changing to join the rest of the Go project at [golang/vscode-go](https://github.com/golang/vscode-go).
+
+Amongst our community of contributors, we'd like to extend special thanks to Ramya Rao ([@ramyanexus](https://twitter.com/ramyanexus/)), the lead maintainer of the extension and contributor to the community for many years, as well as Luke Hoban ([@lukehoban](https://twitter.com/lukehoban/)), and Eric Gamma ([@erichgamma](https://twitter.com/erichgamma/)), for their contributions since September 2015. We would also like to thank Rebecca Stambler ([@stamblerre](https://twitter.com/lukehoban/)) and the Go team for their collaboration.
+
 
 ## Contributing and support
 
